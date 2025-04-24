@@ -5,7 +5,7 @@ cffi==1.15.0
 charset-normalizer==2.0.12
 cryptography==36.0.1
 fire==0.4.0
-h11==0.13.0
+h11==0.16.0
 idna==3.3
 loguru==0.6.0
 lxml==4.9.1
